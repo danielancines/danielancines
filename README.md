@@ -7,6 +7,13 @@ I'm a passionate **Software Engineer** with a love for building efficient, scala
 - 🛠️ My expertises are Maui, WPF, WinForms and WebApis using C#. With a focus on financial technologies and cloud solutions.
 - 📚 I'm constantly learning and enjoy taking on side projects that help me grow as a developer.
 
+### 📖 Currently Learning
+I'm always expanding my skill set! Here are some technologies I'm currently diving into:
+
+- ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) **Dart**
+- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript**
+- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) **Node.js**
+
 ### 📫 Connect with Me
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/danielancines) or via email at [daniel.ancines@gmail.com](mailto:daniel.ancines@gmail.com) – I’m always open to discussing new opportunities or collaborations.
 
