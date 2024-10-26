@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Daniel Vargas Ancines!
+# 🤘 Hi, I'm Daniel Vargas Ancines!
 
 I'm a passionate **Software Engineer** with a love for building efficient, scalable applications. I've been honing my skills at **BTG Pactual** since 2022, where I'm a co-creator of BTG's Desktop Trading App using dotnet **[Maui](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui)**.
 
