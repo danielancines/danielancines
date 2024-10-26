@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Daniel Vargas Ancines!
 
-<!--
-**danielancines/danielancines** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **Software Engineer** with a love for building efficient, scalable applications. I've been honing my skills at **BTG Pactual** since 2022, where I'm a co-creator of BTG's Desktop Trading App using dotnet **[Maui](https://learn.microsoft.com/en-us/dotnet/maui/what-is-maui)**.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- 💻 I'm skilled in dotnet technologies, working with C# since 2008.  backend and frontend technologies and always eager to explore new tools and frameworks.
+- 🛠️ My expertises are Maui, WPF, WinForms and WebApis using C#. With a focus on financial technologies and cloud solutions.
+- 📚 I'm constantly learning and enjoy taking on side projects that help me grow as a developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me
+Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/danielancines) or via email at [daniel.ancines@gmail.com](mailto:daniel.ancines@gmail.com) – I’m always open to discussing new opportunities or collaborations.
+
+### ⚡ Fun Fact
+In my downtime, I enjoy exploring the latest tech trends, working on personal coding projects, and sharing knowledge with others in the developer community.
+
+Thanks for visiting my profile, and happy coding!
