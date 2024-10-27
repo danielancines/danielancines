@@ -20,4 +20,8 @@ Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/danielanc
 ### ⚡ Fun Fact
 In my downtime, I enjoy exploring the latest tech trends, working on personal coding projects, and sharing knowledge with others in the developer community.
 
-Thanks for visiting my profile, and happy coding!
+<div>
+<a href="https://github.com/danielancines">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielancines&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=danielancines&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
