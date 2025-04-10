@@ -10,9 +10,9 @@ I'm a passionate **Software Engineer** with a love for building efficient, scala
 ### 📖 Currently Learning
 I'm always expanding my skill set! Here are some technologies I'm currently diving into:
 
+- ![Csharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) **Csharp**
+- ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) **Swift**
 - ![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white) **Dart**
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) **JavaScript**
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) **Node.js**
 
 ### 📫 Connect with Me
 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/danielancines) or via email at [daniel.ancines@gmail.com](mailto:daniel.ancines@gmail.com) – I’m always open to discussing new opportunities or collaborations.
